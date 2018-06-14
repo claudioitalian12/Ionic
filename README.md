@@ -9,7 +9,7 @@ Example of a bot connected to Dialogflow (API.ai) through official client https:
 
 
 ### How to use / index.js.map
-Digit in `/Ionic-master` : `ionic serve -c ` 
+Digit in `/Ionic-master` : `ionic serve -c `  \n
 Digit `Yes ` and install project dependencies .
 
 After you have an error: `Missing index.js.map`, stop server,
