@@ -9,7 +9,7 @@ Example of a bot connected to Dialogflow (API.ai) through official client https:
 
 
 ### How to use / index.js.map
-For first digit in Ionic-master : `ionic serve -c ` digit `Yes ` and install project dependencies .
+For first digit in `/Ionic-master` : `ionic serve -c ` digit `Yes ` and install project dependencies .
 
 After you have an error: `Missing index.js.map`, stop server,
 error can be solved by adding an empty file named `index.js.map` in `/Ionic-master/node_modules/api-ai-javascript`
