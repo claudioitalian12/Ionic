@@ -19,4 +19,4 @@ error can be solved by adding an empty file named `index.js.map` in `/Ionic-mast
 return to `/Ionic-master ` and digit  : `ionic serve -c ` .
 
 Localhost is setting in : http://localhost:8100
-if you want test on Smartphone , download : https://play.google.com/store/apps/details?id=io.ionic.devapp&hl=it 
+if you want test on Smartphone , download Ionic DevApp: https://play.google.com/store/apps/details?id=io.ionic.devapp&hl=it 
