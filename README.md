@@ -2,7 +2,7 @@
 Example of a bot connected to Dialogflow (API.ai) through official client https://github.com/dialogflow/dialogflow-javascript-client
 
 ## Demo
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://drive.google.com/open?id=14QwYxa2AbDAcNuAxuDK48Kw5mRhOJbZd)
+[![Watch the video]()](https://drive.google.com/open?id=14QwYxa2AbDAcNuAxuDK48Kw5mRhOJbZd)
 
 ## Issues
 ### index.js.map
