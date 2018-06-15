@@ -1,4 +1,4 @@
-# Dialogflow in Ionic3
+# Dialogflow - Ionic3
 Example of a bot connected to Dialogflow (API.ai) through official client https://github.com/dialogflow/dialogflow-javascript-client
 
 ## Demo
